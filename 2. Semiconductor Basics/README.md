@@ -8,14 +8,12 @@ Ding Han
 
 ## Assignment 2.2
 
-![](./2.2-2.jpg)
-![](./2.2-1.jpg)
-
-**Sweep range:** 0V - 1V
-
-The plot shows that the diode current stays very small at low voltage, then around 0.7 V it starts to increase very quickly.
-
+[2.2 Diode I–V Curve Using DC Sweep.md](2.2%20Diode%20I%E2%80%93V%20Curve%20Using%20DC%20Sweep.md)
 
 ## Assignment 2.3
 
 [2.3 Diode Datasheet Analysis.md](2.3%20Diode%20Datasheet%20Analysis.md)
+
+## Assignment 2.4
+
+[2.4 Ideal vs Practical Diode Models.md](2.4%20Ideal%20vs%20Practical%20Diode%20Models.md)
