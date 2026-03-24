@@ -17,3 +17,11 @@ Ding Han
 ## Assignment 2.4
 
 [2.4 Ideal vs Practical Diode Models.md](2.4%20Ideal%20vs%20Practical%20Diode%20Models.md)
+
+## Assignment 2.5
+[2.5 comparison.md](2.5%20comparison.md)
+
+## Assignment 2.6
+[2.6 Justification.md](2.6%20Justification.md)
+
+
